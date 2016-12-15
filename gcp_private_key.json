@@ -1,6 +1,6 @@
 {
   "type": "service_account",
-  "project_id": "gianmaiot]",
+  "project_id": "gianmaiot",
   "private_key_id": "monitor",
   "private_key": "gianmaiot-1988e770886d.json"
   "client_email": "gianmarcopalacios@gmail.com",
