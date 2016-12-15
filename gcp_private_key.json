@@ -4,7 +4,7 @@
   "private_key_id": "monitor",
   "private_key": "gianmaiot-1988e770886d.json"
   "client_email": "gianmarcopalacios@gmail.com",
-  "client_id": "[CLIENT_ID]",
+  "client_id": "1988e770886de560d3fa4707a31c0d28edc73281",
   "auth_uri": "https://accounts.google.com/o/oauth2/auth",
   "token_uri": "https://accounts.google.com/o/oauth2/token",
   "auth_provider_x509_cert_url": "[CERT_URL]",
